@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="salvar">Salvar</string>
+    <string name="apagar">Apagar</string>
+    <string name="salvar_atualizar">Salvar/Atualizar</string>
+    <string name="texto">Texto:</string>
+    <string name="t_tulo">Título:</string>
+    <string name="excluir">Excluir</string>
+</resources>
